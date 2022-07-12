@@ -1,0 +1,3 @@
+# lidgnulinux
+
+# Apa itu lidgnulinux ?
