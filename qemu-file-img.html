@@ -122,11 +122,34 @@ a:hover {
 [<a href="Jokes.html">Jokes</a>]
 [<a href="Kontak.html">Kontak</a>]
 </center>
-<h1 id="jokes">Jokes</h1>
-<h2 id="mau-mendengarkan-jokes">Mau mendengarkan jokes ?</h2>
+<h1 id="agnustic-episode-1">AGNUSTIC Episode 1</h1>
+<h1 id="qemu-boot-file-berekstensi-.img-pada-qemu">QEMU : Boot file berekstensi “.img” pada QEMU</h1>
+<p><br></p>
+<h2 id="awalan">Awalan</h2>
+<p>Saya ingin mencoba openbsd dan saya mengunduh file bootable-nya yang berekstensi “.img”. Saya melampirkan file-nya seperti file bootable biasa yang saya pakai (berekstensi “.ISO”) seperti di bawah ini :</p>
+<pre><code>$ qemu-system-x86_64 -enable-kvm \
+[OPSI LAIN] \
+[OPSI LAIN] \
+-cdrom bootable_img.img</code></pre>
+<p>Setelah saya coba boot, ternyata tidak berhasil dan itu memang kesalahan saya. Move on dan mencari cara lain, Alhamdulillah berhasil. Berikut adalah caranya.</p>
+<p><br></p>
+<h2 id="boot-file-berekstensi-.img-pada-qemu">Boot file berekstensi “.img” pada QEMU</h2>
+<p>Berikut adalah langkah-langkahnya :</p>
 <ol type="1">
-<li></li>
+<li>Masuk ke direktori file img-nya.</li>
 </ol>
+<pre><code>$ cd /path/to/img/file.</code></pre>
+<p><br></p>
+<ol start="2" type="1">
+<li>Launch qemu dan file img dengan baris perintah di bawah ini.</li>
+</ol>
+<pre><code>$ qemu-system-x86_64 -enable-kvm \
+[OPSI LAIN] \
+[OPSI LAIN] \
+drive format=raw,file=file.img</code></pre>
+<p><br></p>
+<p>Segera setelah perintah di atas dijalankan, kita bisa memilih file “.img” dan boot.</p>
+<p>Tanggal Rilis : 19-07-2022.</p>
 </main>
 </body>
 </html>
