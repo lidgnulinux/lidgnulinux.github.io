@@ -22,7 +22,7 @@ Perkembangan wayland dan wayland compositor beberapa tahun belakangan bisa dibil
 
 Tangkapan layar Sway :
 
-![Sway.](img/sway.png "Sway.")
+![Sway.](src/img/sway.png "Sway.")
 
 <br>
 
@@ -34,7 +34,7 @@ Tangkapan layar Sway :
 
 Tangkapan layar River :
    
-![River.](img/river.png "River.")
+![River.](src/img/river.png "River.")
 
 <br>
 
@@ -46,7 +46,7 @@ Tangkapan layar River :
 
 Tangkapan layar Hikari :
 
-![Hikari.](img/hikari.png "Hikari.")
+![Hikari.](src/img/hikari.png "Hikari.")
 
 <br>
 
@@ -58,7 +58,7 @@ Tangkapan layar Hikari :
 
 Tangkapan layar Labwc :
 
-![Labwc.](img/labwc.png "Labwc.")
+![Labwc.](src/img/labwc.png "Labwc.")
 
 <br>
 
@@ -70,5 +70,5 @@ Tangkapan layar Labwc :
 
 Tangkapan layar Dwl :
 
-![Dwl.](img/Dwl.png "Dwl.")
+![Dwl.](src/img/Dwl.png "Dwl.")
 
