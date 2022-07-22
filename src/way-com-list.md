@@ -70,5 +70,5 @@ Tangkapan layar Labwc :
 
 Tangkapan layar Dwl :
 
-![Dwl.](https://github.com/lidgnulinux/lidgnulinux.github.io/blob/main/src/img/Dwl.png "Dwl.")
+![Dwl.](https://github.com/lidgnulinux/lidgnulinux.github.io/blob/main/src/img/dwl.png "Dwl.")
 

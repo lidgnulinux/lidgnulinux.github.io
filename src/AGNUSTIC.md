@@ -6,6 +6,6 @@
 
 Rilisan :
 
-[Episode 1.](https://lidgnulinux.github.io/qemu-file-img.html)
+[Episode 1 : Boot file img pada Qemu.](https://lidgnulinux.github.io/qemu-file-img.html)
 
-[Episode 2.](https://lidgnulinux.github.io/way-com-list.html)
+[Episode 2 : Alternatif Wayland Compositor non-desktop.](https://lidgnulinux.github.io/way-com-list.html)
