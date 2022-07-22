@@ -7,3 +7,4 @@
 Rilisan :
 
 [Episode 1.](https://lidgnulinux.github.io/qemu-file-img.html)
+[Episode 2.](https://lidgnulinux.github.io/way-com-list.html)
