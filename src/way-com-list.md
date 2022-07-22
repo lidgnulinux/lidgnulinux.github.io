@@ -22,7 +22,7 @@ Perkembangan wayland dan wayland compositor beberapa tahun belakangan bisa dibil
 
 Tangkapan layar Sway :
 
-![Sway.](src/img/sway.png "Sway.")
+![Sway.](https://github.com/lidgnulinux/lidgnulinux.github.io/blob/main/src/img/sway.png "Sway.")
 
 <br>
 
@@ -34,7 +34,7 @@ Tangkapan layar Sway :
 
 Tangkapan layar River :
    
-![River.](src/img/river.png "River.")
+![River.](https://github.com/lidgnulinux/lidgnulinux.github.io/blob/main/src/img/river.png "River.")
 
 <br>
 
@@ -46,7 +46,7 @@ Tangkapan layar River :
 
 Tangkapan layar Hikari :
 
-![Hikari.](src/img/hikari.png "Hikari.")
+![Hikari.](https://github.com/lidgnulinux/lidgnulinux.github.io/blob/main/src/img/hikari.png "Hikari.")
 
 <br>
 
@@ -58,7 +58,7 @@ Tangkapan layar Hikari :
 
 Tangkapan layar Labwc :
 
-![Labwc.](src/img/labwc.png "Labwc.")
+![Labwc.](https://github.com/lidgnulinux/lidgnulinux.github.io/blob/main/src/img/labwc.png "Labwc.")
 
 <br>
 
@@ -70,5 +70,5 @@ Tangkapan layar Labwc :
 
 Tangkapan layar Dwl :
 
-![Dwl.](src/img/Dwl.png "Dwl.")
+![Dwl.](https://github.com/lidgnulinux/lidgnulinux.github.io/blob/main/src/img/Dwl.png "Dwl.")
 
